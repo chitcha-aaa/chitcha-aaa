@@ -30,33 +30,45 @@
 
 ### 💼 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Home Task Manager</h3>
-      <p align="center">แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/chitcha-aaa/home-task-manager">🔗 ดู Repository</a>
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-🏠_Home_Task_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
+      <p>แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
+      <img src="https://img.shields.io/github/stars/chitcha-aaa/home-task-manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
+      <img src="https://img.shields.io/github/last-commit/chitcha-aaa/home-task-manager?style=flat-square&color=blue&label=updated" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/chitcha-aaa/home-task-manager">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">🚀 Project Two</h3>
-      <p align="center">คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไร</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/yourusername/project-two">🔗 ดู Repository</a>
-      </p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-🚀_Project_Two-1a1a2e?style=for-the-badge" /><br/><br/>
+      <p>คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไร</p>
+      <img src="https://img.shields.io/github/stars/yourusername/project-two?style=flat-square&color=f4c430&label=%E2%AD%90" />
+      <img src="https://img.shields.io/github/last-commit/yourusername/project-two?style=flat-square&color=blue&label=updated" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/yourusername/project-two">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
+<!-- วิธีแก้ไข:
+1. ชื่อโปรเจกต์: แก้ข้อความหลัง "-" ในบรรทัดแรกของแต่ละการ์ด เช่น "-🚀_Project_Two-" (เว้นวรรคต้องใช้ "_" แทน)
+2. คำอธิบาย: แก้ข้อความใน <p>...</p>
+3. Stars/Last commit badge: แก้ "chitcha-aaa/home-task-manager" หรือ "yourusername/project-two" ให้เป็น username/repo จริง (badge นี้จะอัปเดตจำนวนดาวอัตโนมัติทุกครั้งที่มีคนดู README)
+4. เทคโนโลยี: แก้ badge สี + logo= ให้ตรงกับที่ใช้จริง (ดูชื่อ logo ได้ที่ simpleicons.org)
+5. ลิงก์ repo: แก้ href ในปุ่ม "View Repository"
+6. ถ้าอยากได้ 3 คอลัมน์: เปลี่ยน width="50%" เป็น width="33%" แล้ว copy <td>...</td> เพิ่มอีก 1 ชุด
+-->
 <!-- วิธีแก้ไข:
 - แก้ชื่อโปรเจกต์ (h3), คำอธิบาย (p), และลิงก์ (a href) ให้ตรงกับโปรเจกต์จริงของคุณ
 - badge สีต่างๆ มาจาก shields.io (คนละบริการกับ vercel เสถียรกว่ามาก) เปลี่ยนคำใน logo= ให้ตรงกับเทคโนโลยีที่ใช้จริง เช่น logo=vue, logo=python, logo=firebase
