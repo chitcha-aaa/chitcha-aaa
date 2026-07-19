@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/chitcha/home-task-manager">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chitcha&repo=project-one&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chitcha&repo=home-task-manager&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/project-two">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=tokyonight&hide_border=true" />
