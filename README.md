@@ -30,23 +30,38 @@
 
 ### 💼 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/chitcha-aaa/home-task-manager">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chitcha-aaa&repo=home-task-manager&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project-two">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/project-three">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-three&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project-four">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-four&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Home Task Manager</h3>
+      <p align="center">แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/chitcha-aaa/home-task-manager">🔗 ดู Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Project Two</h3>
+      <p align="center">คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไร</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/yourusername/project-two">🔗 ดู Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- วิธีแก้ไข:
+- แก้ชื่อโปรเจกต์ (h3), คำอธิบาย (p), และลิงก์ (a href) ให้ตรงกับโปรเจกต์จริงของคุณ
+- badge สีต่างๆ มาจาก shields.io (คนละบริการกับ vercel เสถียรกว่ามาก) เปลี่ยนคำใน logo= ให้ตรงกับเทคโนโลยีที่ใช้จริง เช่น logo=vue, logo=python, logo=firebase
+- เพิ่ม/ลบ <td>...</td> ได้ตามจำนวนโปรเจกต์ที่มี (ถ้าอยากได้ 3 คอลัมน์ ปรับ width เป็น 33% แล้วเพิ่ม td อีกอัน)
+-->
 
 <!-- ถ้าอยากใส่แบบตารางรายละเอียด (ชื่อ, คำอธิบาย, เทคโนโลยี, ลิงก์) ใช้แบบนี้แทนได้:
 
