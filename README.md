@@ -1,24 +1,22 @@
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Chitsanucha Devvv 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <a href="https://github.com/chitcha">
+    <img src="https://komarev.com/ghpvc/?username=chitcha&label=Profile%20views&color=0e75b6&style=flat" alt="chitcha" />
   </a>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/chitcha?label=Follow&style=social" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 กำลังทำงานเกี่ยวกับ: *โปรเจกต์ของคุณ*
-- 🌱 กำลังเรียนรู้: *เทคโนโลยีที่คุณกำลังศึกษา*
-- 💬 ถามผมได้เรื่อง: *สิ่งที่คุณถนัด*
-- 📫 ติดต่อผมได้ที่: *อีเมลหรือช่องทางติดต่อ*
-- ⚡ Fun fact: *เรื่องสนุกๆ เกี่ยวกับคุณ*
+- 🔭 กำลังทำงานเกี่ยวกับ: ระบบการจัดการประชุมวิชาการ
+- 🌱 กำลังเรียนรู้: React Next.js และ การออกแบบ UX/UI
+- 📫 ติดต่อผมได้ที่: boych.0002@gmail.com    
 
 ---
 
@@ -33,8 +31,8 @@
 ### 💼 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project-one">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/chitcha/home-task-manager">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chitcha&repo=project-one&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/project-two">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=tokyonight&hide_border=true" />
