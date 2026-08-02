@@ -94,11 +94,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chitcha-aaa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-chitcha.vercel.app/?user=chitcha-aaa&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-g6q3fcvak-chitcha.vercel.app/graph?username=chitcha-aaa&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats-chitcha.vercel.app/graph?username=chitcha-aaa&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats-g6q3fcvak-chitcha.vercel.app/?username=chitcha-aaa&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats-chitcha.vercel.app/?username=chitcha-aaa&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
