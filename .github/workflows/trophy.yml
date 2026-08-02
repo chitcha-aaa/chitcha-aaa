@@ -2,8 +2,8 @@ name: Generate trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # รันทุกวันเที่ยงคืน
-  workflow_dispatch:       # กดรันเองได้จากแท็บ Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
@@ -15,7 +15,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: chitcha-aaa
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit
