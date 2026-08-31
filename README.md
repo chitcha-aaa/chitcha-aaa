@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <img src="https://img.shields.io/badge/-🎓_Conference_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
-      <p>ระบบบริหารจัดการงานประชุมวิชาการ BRICC Festival 2026</p>
+      <p>ระบบบริหารจัดการงานประชุมวิชาการ</p>
       <img src="https://img.shields.io/github/stars/chitcha-aaa/project_conference_manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
       <img src="https://img.shields.io/github/last-commit/chitcha-aaa/project_conference_manager?style=flat-square&color=blue&label=updated" />
       <br/><br/>
