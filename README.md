@@ -32,7 +32,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <img src="https://img.shields.io/badge/-🏠_Home_Task_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
       <p>แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
       <img src="https://img.shields.io/github/stars/chitcha-aaa/home-task-manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
@@ -46,10 +46,7 @@
         <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <img src="https://img.shields.io/badge/-🎓_Conference_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
       <p>ระบบบริหารจัดการงานประชุมวิชาการ BRICC Festival 2026</p>
       <img src="https://img.shields.io/github/stars/chitcha-aaa/project_conference_manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
