@@ -46,7 +46,21 @@
         <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    
+
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-🏠_Home_Task_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
+      <p>แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
+      <img src="https://img.shields.io/github/stars/chitcha-aaa/home-task-manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
+      <img src="https://img.shields.io/github/last-commit/chitcha-aaa/home-task-manager?style=flat-square&color=blue&label=updated" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/chitcha-aaa/home-task-manager">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
 <!-- วิธีแก้ไข:
