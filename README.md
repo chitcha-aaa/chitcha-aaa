@@ -46,10 +46,12 @@
         <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
 
+  <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-🏠_Home_Task_Manager-1a1a2e?style=for-the-badge" /><br/><br/>
-      <p>แอปจัดการงานบ้าน ช่วยแบ่งงานและติดตามความคืบหน้าในครอบครัว</p>
+      <p>ระบบบริหารจัดการประชุมวิชาการ</p>
       <img src="https://img.shields.io/github/stars/chitcha-aaa/home-task-manager?style=flat-square&color=f4c430&label=%E2%AD%90" />
       <img src="https://img.shields.io/github/last-commit/chitcha-aaa/home-task-manager?style=flat-square&color=blue&label=updated" />
       <br/><br/>
